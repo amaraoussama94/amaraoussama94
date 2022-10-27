@@ -22,7 +22,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 8. Other :<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/scrum-1.svg" alt="scrum" width="40" height="40"/>   <a href="https://www.freertos.org/" target="_blank" rel="noreferrer"> <img src="https://www.freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" alt="FREE RTOOS" width="40" height="30"/> </p>
  
 <h3 align="left">Operating system:</h3>
-<p align="left">  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+<p align="left">  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="40" height="40"/> </a>  </p>
     
 
     
