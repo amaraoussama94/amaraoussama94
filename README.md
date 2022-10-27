@@ -31,7 +31,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
     
   p align="center">
 <a href="https://github.com/amaraoussama94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94-Deen&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>  
     
