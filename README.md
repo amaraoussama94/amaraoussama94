@@ -29,23 +29,23 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <h3 align="left">Operating system:</h3>
 <p align="left">  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
     
-<a href="https://github.com/amaraoussama94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
     
- <p align="center">
+<p align="center">
 <a href="https://github.com/amaraoussama94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaraoussama94"&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaraoussama94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/amaraoussama94"">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94"&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/amaraousaama94">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-    
+ <a href="https://github.com/amaraoussama94">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>   
  <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 
