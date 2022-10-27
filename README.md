@@ -23,9 +23,9 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 
 <h3 align="left">Technical Skills:</h3>
 1. Programing Language: <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/></a> , <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/></a> , <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> , </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>.
-2. Programing Platforms: Kail, CubeMX, Arduino IDE Atmel Studio, VS code, GitHub,Atome..
-3. Hardware Platforms: </a>  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="Kicad" width="40" height="40"/></a></p>.
-4. Hardware skills:  
+2. Programing Platforms: Kail, CubeMX, Arduino IDE Atmel Studio, VS code, GitHub,Atome. </p>
+3. Hardware Platforms:  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="Kicad" width="40" height="40"/></a></p>.
+4. Hardware skills:  I2C,USART ></p>
 5. Embedded Systems   : <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.st.com/en/development-tools/stm32cubemx.html" target="_blank" rel="noreferrer"> , <img src="https://www.st.com/bin/ecommerce/api/image.PF259242.en.feature-description-include-personalized-no-cpn-large.jpg" alt="ST" width="40" height="40"/> </p>
 6. GUI:  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a></p>
 7. AI:<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a></p>
