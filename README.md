@@ -1,4 +1,4 @@
-# Hey, I'm Oussama Amara. 🤝😎
+# Hey 👋 , I'm Oussama Amara. 🤝😎
 <p align="left">
     <a href="https://www.linkedin.com/in/oussama-amara-b29117144/ "><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
     <a href="mailto:amara.ousama@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a>
@@ -7,14 +7,9 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Embedded+System+Developer+Engineer&center=true&width=500&height=50"></a>
 </p>
 
-# About Me:   
-Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI,Python
+<h3 align="left"> About Me</h3>  
+Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI 🤖 ,Python
 
-## And this is my Experience:
-1.   trainee,  ,  .
-2.  Intern,  ,  .
-3.  Intern,   ,  
-4.  ,  ,  
 
 <h3 align="left">Technical Skills:</h3>
 1. Programing Language:<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a>  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/></a> , <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/></a> , <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>.
@@ -42,7 +37,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
- <h4 align="center"> Thanks for Visiting!:innocent:</h4>
+ <h4 align="center"> Thanks for Visiting!🥳 :innocent:</h4>
 
 
 
