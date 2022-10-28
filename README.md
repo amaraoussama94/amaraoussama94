@@ -132,9 +132,10 @@ Click heret.com/bin/ecommerce/api/image.PF259242.en.feature-description-include-
 
 
  <h4 align="center"> 
-    <img alt="By By  " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif">
+   <img alt="By By  " src="https://media.tenor.com/DbEsQUAJLrUAAAAi/bye-bear.gif"width="150">
+    
    Thanks for Visiting!
-   <img alt="By By  " src="https://media.tenor.com/DbEsQUAJLrUAAAAi/bye-bear.gif">
+   <img alt="By By  " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif"width="150">
   </h4>
 
 
