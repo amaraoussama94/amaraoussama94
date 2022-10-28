@@ -47,8 +47,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 </div>
 -->    
 <p align="center">
-<a href="https://github.com/amaraoussama94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaraoussama94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
 </a>
 </p>
 
@@ -70,8 +69,8 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
     <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
 </div>
 <div alig="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+     <a href="https://github.com/amaraoussama94">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaraoussama94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
 </div>
 </details>
