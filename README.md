@@ -43,7 +43,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <p align="center"><img src="https://tenor.com/view/elmo-hello-hi-hey-welcome-gif-26235210" width="150px"> </p>
  <h4 align="center"> Thanks for Visiting!🥳 :innocent:</h4>
 <p align="center"><img src="https://tenor.com/view/drop-in-anytime-dropping-in-come-round-come-over-anytime-gif-19826700" width="150px"> </p>
-
+<p align="center"><img src="https://tenor.com/view/drop-in-anytime-dropping-in-come-round-come-over-anytime-gif-19826700" width="300px"> </p>
 
 
 
