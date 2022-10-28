@@ -46,15 +46,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   </div>
 </div>
 -->    
-<p align="center">
 
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/amaraousaama94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=algolia"/>
-</a>
  <h4 align="center"> Thanks for Visiting!🥳 :innocent:</h4>
   
   </details>
@@ -78,19 +70,22 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <details>
  <summary>Recent activity</summary>
     
-<!--START_SECTION:activity-->
+<!--START_SECTION:activityx
 1. 🗣 Commented on [#22](https://github.com/Carol42/Carol42/issues/22) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
 2. ❗️ Opened issue [#24980](https://github.com/timburgan/timburgan/issues/24980) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 3. ❗️ Opened issue [#2036](https://github.com/marcizhu/marcizhu/issues/2036) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
 4. ❗️ Opened issue [#1632](https://github.com/rossjrw/rossjrw/issues/1632) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-5. ❗️ Opened issue [#1494](https://github.com/benjaminsampica/benjaminsampica/issues/1494) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Opened issue [#1494](https://github.com/benjaminsampica/benjaminsampica/issues/1494) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)-->
 <!--END_SECTION:activity-->
 
 </details>
 <details>
 <summary>Top languages</summary>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />-->
+  <p align="center">
+<a href="https://github.com/amaraousaama94">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=algolia"/>
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
