@@ -115,7 +115,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 </div>
 </details>
 
-<img alt="github contribution snake animation" src="https://github.com/amaraousaama94/amaraousaama94/blob/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/amaraoussama94amaraoussama94/github-contribution-grid-snake.svg ">
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/amaraousaama94/amaraousaama94/issues/new?template=guestbook-entry.md">here</a>!</p>
