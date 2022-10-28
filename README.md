@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" width="300px"> 
+<p align="center"><img src="https://media.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" width="300px"> </p>
 
 # Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Oussama Amara. 🤝😎
 
