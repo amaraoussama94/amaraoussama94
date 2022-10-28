@@ -29,8 +29,23 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <h3 align="left">Operating system:</h3>
 <p align="left">  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="40" height="40"/> </a>  </p>
     
+### Personal projects
 
-    
+<!--<div align=center>
+  <div>
+    <a href="https://github.com/UlisesAlexanderAM/book">
+      <img alt="Book Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical" /></a>
+    <a href="https://github.com/UlisesAlexanderAM/fancy-uaam">
+      <img alt="fancy-uaam Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical" /></a>
+  </div>
+  <div>
+    <a href="https://github.com/UlisesAlexanderAM/UAAM-config-left">
+      <img alt="UAAM-config-left Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical" /></a>
+    <br/>
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
+  </div>
+</div>
+-->    
 <p align="center">
 <a href="https://github.com/amaraoussama94">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaraoussama94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
