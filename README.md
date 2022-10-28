@@ -57,6 +57,83 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  <h4 align="center"> Thanks for Visiting!🥳 :innocent:</h4>
+  
+  </details>
+<h2>:octocat: My GitHub Stats</h2>
+<details>
+<summary>General Stats</summary>
+<div>
+    <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+</div>
+<div alig="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+</div>
+</details>
+<details>
+ <summary>Recent activity</summary>
+    
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#22](https://github.com/Carol42/Carol42/issues/22) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+2. ❗️ Opened issue [#24980](https://github.com/timburgan/timburgan/issues/24980) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#2036](https://github.com/marcizhu/marcizhu/issues/2036) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+4. ❗️ Opened issue [#1632](https://github.com/rossjrw/rossjrw/issues/1632) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+5. ❗️ Opened issue [#1494](https://github.com/benjaminsampica/benjaminsampica/issues/1494) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+<!--END_SECTION:activity-->
+
+</details>
+<details>
+<summary>Top languages</summary>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
+<details>
+<summary>Streak stats</summary>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
+</details>
+<details>
+<summary>Contribution Graph</summary>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+</a>
+</details>
+<details>
+<summary>Achievements</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
+</a>
+</details>
+<details>
+<summary>Profile visitors</summary>
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+</div>
+</details>
+
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+
 
 
 
