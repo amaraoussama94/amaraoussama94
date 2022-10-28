@@ -114,8 +114,8 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
     <img alt="visitors counter" src="https://profile-counter.glitch.me/amaraousaama94/count.svg">
 </div>
 </details>
-
-<img alt="github contribution snake animation" src="https://github.com/amaraoussama94amaraoussama94/github-contribution-grid-snake.svg ">
+<!-- source :https://github.com/Platane/snk-->
+<img alt="github contribution snake animation" src="https://platane.github.io/snk/ ">
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/amaraousaama94/amaraousaama94/issues/new?template=guestbook-entry.md">here</a>!</p>
