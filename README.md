@@ -131,7 +131,11 @@ Click heret.com/bin/ecommerce/api/image.PF259242.en.feature-description-include-
 
 
 
- <h4 align="center"> Thanks for Visiting!🥳 :innocent:</h4>
+ <h4 align="center"> 
+    <img alt="By By  " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif">
+   Thanks for Visiting!
+   <img alt="By By  " src="https://media.tenor.com/DbEsQUAJLrUAAAAi/bye-bear.gif">
+  </h4>
 
 
 
