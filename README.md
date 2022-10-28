@@ -47,7 +47,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 </div>
 -->    
 
- <h4 align="center"> Thanks for Visiting!🥳 :innocent:</h4>
+
   
   </details>
 <h2>:octocat: My GitHub Stats</h2>
@@ -92,33 +92,33 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <details>
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=amaraousaama94&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
 </details>
 <details>
 <summary>Contribution Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=amaraousaama94&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
 <details>
 <summary>Achievements</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=amaraousaama94&theme=darkhub&no-frame=true&column=7">
 </a>
 </details>
 <details>
 <summary>Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/amaraousaama94/count.svg">
 </div>
 </details>
 
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/amaraousaama94/amaraousaama94/blob/output/github-contribution-grid-snake.svg">
 
 <h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/amaraousaama94/amaraousaama94/issues/new?template=guestbook-entry.md">here</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -129,7 +129,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
 
-
+ <h4 align="center"> Thanks for Visiting!🥳 :innocent:</h4>
 
 
 
