@@ -11,8 +11,9 @@
 <h3 align="left"> About Me</h3>  
 Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI 🤖 ,Python
 
+<p align="center"><img src="https://media.tenor.com/KbXIBwtIzoYAAAAC/piano-bruce-almighty.gif" width="250px"> </p>
 
-<h3 align="left">Technical Skills:<img src="https://media.tenor.com/KbXIBwtIzoYAAAAC/piano-bruce-almighty.gif" width="250px"> </h3> 
+<h3 align="left">Technical Skills:</h3> 
 1. Programing Language:<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a>    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/></a>    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/></a>    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 2. Programing Tools : <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="Atome" width="40" height="40"/> </a>    <a href="https:https://www.keil.com/dd2/pack/" target="_blank" rel="noreferrer"> <img src="https://www.keil.com/Content/images/Arm_KEIL_horizontal_white_LG.png" alt="Keil" width="40" height="20"/> </a>   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS code" width="40" height="40"/> </a> </p>
 3. Electronic design :  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="Kicad" width="40" height="40"/></a></p>
