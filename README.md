@@ -125,14 +125,8 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/amaraousaama94/amaraousaama94/issues/new?template=guestbook-entry.md">here</a>!</p>
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
-    </a>
-</div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+
 
  <h4 align="center"> Thanks for Visiting!🥳 :innocent:</h4>
 
