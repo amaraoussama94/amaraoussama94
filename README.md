@@ -14,7 +14,7 @@
 <h3 align="left"> About Me</h3>  
 Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI 🤖 ,Python
 
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"><img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" width="100"></p>
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
 <h3 align="left">Technical Skills:</h3> 
 1. Programing Language:<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a>    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/></a>    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/></a>    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
@@ -49,7 +49,10 @@ Click heret.com/bin/ecommerce/api/image.PF259242.en.feature-description-include-
 </div>
 -->    
 <h3 align="center">
- <img src="https://media.tenor.com/ug2WhzY7haAAAAAi/ok-tanzen.gif" width="50"><img src="https://cdn3.emoji.gg/emojis/3468-skype-music.gif" width="50"><img src="https://cdn3.emoji.gg/emojis/7896-blob-jam.gif" width="50"><img src="https://media.tenor.com/nPPgsndawNIAAAAi/animation-animated.gif" width="50">
+  <img src="https://cdn3.emoji.gg/emojis/7896-blob-jam.gif" width="90">
+  <img src="https://media.tenor.com/ug2WhzY7haAAAAAi/ok-tanzen.gif" width="100">
+  <img src="https://cdn3.emoji.gg/emojis/3468-skype-music.gif" width="90">
+  <img src="https://media.tenor.com/nPPgsndawNIAAAAi/animation-animated.gif" width="100">
   </p>
   </details>
 <h2>:octocat: My GitHub Stats</h2>
