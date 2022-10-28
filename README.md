@@ -89,12 +89,15 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
+  
 <details>
 <summary>Streak stats</summary>
+ < p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://streak-stats.demolab.com?user=amaraoussama94&theme=highcontrast&hide_border=true" alt="streak stats"/>
       <!--[![GitHub Streak](https://streak-stats.demolab.com?user=amaraoussama94&theme=highcontrast)](https://git.io/streak-stats)-->
     </a>
+  </p>
 </details>
 <details>
 <summary>Contribution Graph</summary>
