@@ -1,5 +1,7 @@
-<img src="https://media.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" width="30px"> 
-# Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Oussama Amara. 🤝😎
+<img src="https://media.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" width="300px"> 
+
+# Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Oussama Amara. 🤝😎
+
 <p align="left">
     <a href="https://www.linkedin.com/in/oussama-amara-b29117144/ "><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
     <a href="mailto:amara.ousama@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a>
