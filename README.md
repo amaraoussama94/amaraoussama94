@@ -92,7 +92,8 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <details>
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=amaraousaama94&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+        <img height=180em src="https://streak-stats.demolab.com?user=amaraoussama94&theme=highcontrast&hide_border=true" alt="streak stats"/>
+      <!--[![GitHub Streak](https://streak-stats.demolab.com?user=amaraoussama94&theme=highcontrast)](https://git.io/streak-stats)-->
     </a>
 </details>
 <details>
