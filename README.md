@@ -109,7 +109,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <details>
 <summary>Achievements</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=amaraoussama94&theme=onedark">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=amaraoussama94&theme=onedark&no-frame=true&column=7">
 </a>
 </details>
 <details>
