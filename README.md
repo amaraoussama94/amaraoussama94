@@ -47,7 +47,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 </div>
 -->    
 
-
+ <img src="https://cdn3.emoji.gg/emojis/3468-skype-music.gif" width="50"><img src="https://cdn3.emoji.gg/emojis/7896-blob-jam.gif" width="50">
   
   </details>
 <h2>:octocat: My GitHub Stats</h2>
