@@ -1,6 +1,6 @@
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to VydrOz's profile! &nbsp;
+  &nbsp; Welcome  &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3><p align="center"><img src="https://media.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" width="300px"> </p>
 # Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Oussama Amara. 🤝😎
