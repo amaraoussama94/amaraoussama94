@@ -115,7 +115,8 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 </div>
 </details>
 <!-- source :https://github.com/Platane/snk-->
-<img alt="github contribution snake animation" src="https://platane.github.io/snk/ ">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+<img alt="github contribution snake animation" src="https://github.com/amaraoussama94/amaraoussama94/blob/main/github-user-contribution.svg">
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/amaraousaama94/amaraousaama94/issues/new?template=guestbook-entry.md">here</a>!</p>
