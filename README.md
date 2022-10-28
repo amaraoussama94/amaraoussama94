@@ -1,7 +1,7 @@
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
   &nbsp; Welcome  &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"></p>
 # Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Oussama Amara. 🤝😎
 <p align="left">
     <a href="https://www.linkedin.com/in/oussama-amara-b29117144/ "><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
