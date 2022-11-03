@@ -42,7 +42,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   
    
 </div>
- 
+  </details>
 <h3 align="center">
   <img src="https://cdn3.emoji.gg/emojis/7896-blob-jam.gif" width="90">
   <img src="https://media.tenor.com/ug2WhzY7haAAAAAi/ok-tanzen.gif" width="100">
