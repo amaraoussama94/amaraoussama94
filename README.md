@@ -36,8 +36,8 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 ### Personal projects
 
 <div align=center>
-  <a href="https://github.com/amaraoussama94/Timber"><img alt="Timber_Game" src="https://github.com/amaraoussama94/Timber/blob/main/Game.png" width="90" height="40"/></a>
-   <a href="https://github.com/amaraoussama94/Pong"><img alt="Timber_Game" src="https://github.com/amaraoussama94/Pong/blob/main/Game.png" width="90" height="40"/></a>
+  <a href="https://github.com/amaraoussama94/Timber"><img alt="Timber_Game" src="https://github.com/amaraoussama94/Timber/blob/main/Game.png" width="290" height="240"/></a>
+   <a href="https://github.com/amaraoussama94/Pong"><img alt="Timber_Game" src="https://github.com/amaraoussama94/Pong/blob/main/Game.png" width="290" height="240"/></a>
 </div> 
 <h3 align="center">
   <img src="https://cdn3.emoji.gg/emojis/7896-blob-jam.gif" width="90">
