@@ -71,7 +71,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 </details>
 <details>
  <summary>Recent activity</summary>
- <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1.  
 2. 
 3.  
