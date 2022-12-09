@@ -104,9 +104,9 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   </p>
 </details>
 <details>
-<summary>Contribution Graph</summary><!--https://github.com/ashutosh00710/github-readme-activity-graph      &area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE-->
+<summary>Contribution Graph</summary><!--https://github.com/ashutosh00710/github-readme-activity-graph-->
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=amaraoussama94">
+    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=amaraoussama94&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
 <details>
@@ -128,8 +128,6 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <!--
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/amaraousaama94/amaraousaama94/issues/new?template=guestbook-entry.md">here</a>!</p>-->
-
-
 
 
  <h4 align="center"> 
