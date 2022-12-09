@@ -135,7 +135,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
    Thanks for Visiting!
    <img alt="By " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif" width= "100">
   </h4>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amaraoussama94)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
