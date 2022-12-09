@@ -55,13 +55,13 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   </p>
   </details>
 <h2>:octocat: My GitHub Stats</h2>
- ---
-### Wakatime stats
+
+<summary>Wakatime stats </summary>
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="amaraoussama94's wakatime stats" src="https://github-readme-stats-amaraoussama94.vercel.app/api/wakatime?username=amaraoussama94&theme=radical" /></a>
 </div>
----
+
 <details>
 <summary>General Stats</summary>
 <!--<div>
