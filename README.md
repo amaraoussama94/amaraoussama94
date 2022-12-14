@@ -114,7 +114,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <details>
 <summary>Contribution Graph</summary><!--https://github.com/ashutosh00710/github-readme-activity-graph-->
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amaraoussama94&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amaraoussama94&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </a>
 </details>
