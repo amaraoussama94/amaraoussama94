@@ -58,8 +58,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 
 <summary>Wakatime stats </summary>
 <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="amaraoussama94's wakatime stats" src="https://github-readme-stats-amaraoussama94.vercel.app/api/wakatime?username=amaraoussama94&theme=radical" /></a>
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amaraoussama94)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <details>
