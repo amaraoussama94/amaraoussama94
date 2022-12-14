@@ -58,7 +58,9 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 
 <summary>Wakatime stats </summary>
 <div align=center>
+  
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amaraoussama94)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <details>
