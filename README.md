@@ -38,7 +38,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <div align=center>
 <div  >
  
-      <img alt="Timber Game" src="https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama&repo=Timber" /></a>
+   [![Readme Card] (https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama&repo=Timber)](https:[//github.com/anuraghazra/github-readme-stats](https://github.com/amaraoussama94/Timber))
   
   
   <a href="https://github.com/amaraoussama94/Timber"><img alt="Timber_Game" src="https://github.com/amaraoussama94/Timber/blob/main/Game.png" width="290" height="240"/></a>
