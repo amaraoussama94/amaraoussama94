@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left"> About Me</h3>  
-Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI 🤖 ,Python and soon i will start rust with stm 32f4 
+Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI 🤖 ,Python and soon i will start rust   
 
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
