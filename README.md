@@ -3,10 +3,6 @@
   &nbsp; Welcome  &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="50"></p>
 <h3 align="center"> &nbsp;  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Oussama Amara. 🤝😎 &nbsp;</p>
-<table align="right">
- <!--<tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>-->
-</table>
 <p align="left">
     <a href="https://www.linkedin.com/in/oussama-amara-b29117144/ "><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
     <a href="mailto:amara.ousama@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a>
@@ -104,7 +100,6 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://streak-stats.demolab.com?user=amaraoussama94&theme=highcontrast&hide_border=true" alt="streak stats"/>
-      <!--[![GitHub Streak](https://streak-stats.demolab.com?user=amaraoussama94&theme=highcontrast)](https://git.io/streak-stats)-->
     </a>
   </p>
 </details>
@@ -128,12 +123,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
     <img alt="visitors counter" src="https://profile-counter.glitch.me/amaraousaama94/count.svg">
 </div>
 </details>
-<!-- source :https://github.com/Platane/snk  github-user-contribution-->
-<img alt="github contribution snake animation" src="https://github.com/amaraoussama94/amaraoussama94/blob/output/github-contribution-grid-snake.svg">
-  <!--<img alt="github contribution snake animation" src="https://github.com/amaraoussama94/amaraoussama94/blob/main/github-contribution-snake-dark.svg?palette=github-dark">-->
-<!--
-<h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/amaraousaama94/amaraousaama94/issues/new?template=guestbook-entry.md">here</a>!</p>-->
+<img alt="github contribution snake animation" src="https://github.com/amaraoussama94/amaraoussama94/blob/output/github-contribution-grid-snake.svg"
 
 
  <h4 align="center"> 
