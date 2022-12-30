@@ -127,8 +127,8 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 
 
  <h4 align="center"> 
-   <img alt="By By  " src="https://media.tenor.com/DbEsQUAJLrUAAAAi/bye-bear.gif"width="100">Thanks for Visiting! <img alt="By " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif" width= "100">
-  </h4>
+ <img alt="By By  " src="https://media.tenor.com/DbEsQUAJLrUAAAAi/bye-bear.gif"width="100">Thanks for Visiting!<img alt="By " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif" width= "100">
+ </h4>
  
 
 
