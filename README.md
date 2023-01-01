@@ -10,7 +10,6 @@
  <p align="center"><img src="https://media.tenor.com/wspoUO-g8-wAAAAi/plugdj-vibing.gif" width="90px"> 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Embedded+System+Developer+Engineer&center=true&width=500&height=50"></a><img src="https://cdn3.emoji.gg/emojis/4363-mochibowtie.gif" width="90px"> 
 </p>
-
 <h3 align="left"> About Me</h3>  
 Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI 🤖 ,Python and soon i will start rust   
 
