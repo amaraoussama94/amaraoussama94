@@ -50,6 +50,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   <img src="https://media.tenor.com/nPPgsndawNIAAAAi/animation-animated.gif" width="100">
   </p>
   </details>
+  
 <h2>:octocat: My GitHub Stats</h2>
 <details>
 <summary>Wakatime stats</summary>
