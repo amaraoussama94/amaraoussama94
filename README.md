@@ -38,7 +38,6 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
      <a href="https://github.com/amaraoussama94/Space-Invaders"><img alt="Space-Invaders" src="https://github.com/amaraoussama94/Space-Invaders/blob/main/game_pic_1.png" width="290" height="240"/></a> 
  <a href="https://github.com/amaraoussama94/Thomas-Wass-Alone"><img alt="Thomas-Wass-Alone" src="https://github.com/amaraoussama94/Thomas-Wass-Alone/blob/main/game_pic.png" width="290" height="240"/></a>
  </div>  
-   
 </div> 
 <h3 align="center">
   <img src="https://cdn3.emoji.gg/emojis/7896-blob-jam.gif" width="90">
