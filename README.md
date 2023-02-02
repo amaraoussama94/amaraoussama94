@@ -11,7 +11,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Embedded+System+Developer+Engineer&center=true&width=500&height=50"></a><img src="https://cdn3.emoji.gg/emojis/4363-mochibowtie.gif" width="90px"> 
 </p>
 <h3 align="left"> About Me</h3>  
-Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI 🤖 ,Python  
+Embedded System Developer  engineer , My main interest is in Embedded Systems ,C, C++ ,AI 🤖 ,Python ,Rust 
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 <h3 align="left">Technical Skills:</h3> <!--https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg-->
 1. Programing Language:<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.es/20180615/pxs/kisspng-bash-shell-script-gnu-bourne-shell-bash-5b239a62056153.0040296515290599380221.jpg" alt="Bash" width="40" height="40"/> </a>    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/></a><a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
