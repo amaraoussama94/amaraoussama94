@@ -51,7 +51,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   
 <p align="center">
   
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amaraoussama94)](https://github.com/anuraghazra/github-readme-stats)
+[![amara_oussama_94's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amara_oussama_94)](https://github.com/anuraghazra/github-readme-stats)
   
  </p>
   
