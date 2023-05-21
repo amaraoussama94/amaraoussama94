@@ -28,16 +28,12 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
     
 ### Personal projects
 <div align=center>
-<div  >
-  <h3 align="center">
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Socket_with_c&theme=radical)<br/>
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Timber&theme=radical&theme=radical)<br/>
-    </p>
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Pong&theme=radical&theme=radical)<br/>
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Zombie-Shooter&theme=radical)<br/>
    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Space-Invaders&theme=radical)<br/>
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Thomas-Wass-Alone&theme=radical)<br/>
- </div>  
 </div> 
 <h3 align="center">
   <img src="https://cdn3.emoji.gg/emojis/7896-blob-jam.gif" width="90">
