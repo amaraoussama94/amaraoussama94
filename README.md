@@ -29,6 +29,10 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 ### Personal projects
 <div align=center>
 <div  >
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Socket_with_c)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
   <a href="https://github.com/amaraoussama94/Timber"><img alt="Timber_Game" src="https://github.com/amaraoussama94/Timber/blob/main/Game.png" width="290" height="240"/></a>
    <a href="https://github.com/amaraoussama94/Pong"><img alt="Pong" src="https://github.com/amaraoussama94/Pong/blob/main/Game.png" width="290" height="240"/></a> 
    <a href="https://github.com/amaraoussama94/Zombie-Shooter"><img alt="Zombie-Shooter" src="https://github.com/amaraoussama94/Zombie-Shooter/blob/main/game%200.2.png" width="290" height="240"/></a>
