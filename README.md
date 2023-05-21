@@ -30,18 +30,17 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <div align=center>
 <div  >
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Socket_with_c&theme=radical)] (https://github.com/anuraghazra/github-readme-stats) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Socket_with_c&theme=radical)] (https://github.com/anuraghazra/github-readme-stats)  <br/>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Timber&theme=radical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Timber)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Pong&theme=radical&theme=radical)](https://github.com/anuraghazra/github-readme-stats )
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Pong)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Zombie-Shooter)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Zombie-Shooter&theme=radical)](https://github.com/anuraghazra/github-readme-stats )
   
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Space-Invaders)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Space-Invaders&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Thomas-Wass-Alone)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Thomas-Wass-Alone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>  
 </div> 
