@@ -29,7 +29,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 ### Personal projects
 <div align=center>
 <div  >
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Socket_with_c&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&theme=dark&repo=Socket_with_c)](https://github.com/anuraghazra/github-readme-stats) 
   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Timber)](https://github.com/anuraghazra/github-readme-stats)
   
