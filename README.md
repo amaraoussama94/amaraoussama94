@@ -75,7 +75,6 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
 </details>
 <details>
 <summary>Top languages</summary>
