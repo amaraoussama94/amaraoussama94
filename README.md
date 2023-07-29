@@ -114,7 +114,6 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
     <img alt="visitors counter" src="https://profile-counter.glitch.me/amaraousaama94/count.svg">
 </div>
 </details>
-
 <img alt="github contribution snake animation" src="https://github.com/amaraoussama94/amaraoussama94/blob/output/github-contribution-grid-snake.svg"
 
 
