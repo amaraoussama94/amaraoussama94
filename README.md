@@ -116,20 +116,11 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 </details>
 <p align="center">
   
-[![snake animation](https://github.com/amaraoussama94/amaraoussama94/blob/output/github-contribution-grid-snake2.svg)]
+![snake animation](https://github.com/amaraoussama94/amaraoussama94/tree/output/github-contribution-grid-snake2.svg)
+
+
 
 <p align="center">
  <a align="center"> 
  <img alt="By By  " src="https://media.tenor.com/DbEsQUAJLrUAAAAi/bye-bear.gif"width="100">Thanks for Visiting!<img alt="By " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif" width= "100">
  </a>
- 
-
-
-
-
-
-
-
-
-
--
