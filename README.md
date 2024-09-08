@@ -116,7 +116,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 </details>
 <p align="center">
   
-![snake animation](https://github.com/amaraoussama94/amaraoussama94/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/amaraoussama94/amaraoussama94/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
