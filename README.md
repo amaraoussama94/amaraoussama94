@@ -33,7 +33,7 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Pong&theme=radical )<br/>
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Zombie-Shooter&theme=radical)<br/>
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Space-Invaders&theme=radical)<br/>
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Thomas-Wass-Alone&theme=radical)<br/>
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaraoussama94&repo=Thomas-Wass-Alone&theme=radical)<br/>v
 </div> 
 <h3 align="center">
   <img src="https://cdn3.emoji.gg/emojis/7896-blob-jam.gif" width="90">
@@ -71,10 +71,10 @@ Embedded System Developer  engineer , My main interest is in Embedded Systems ,C
 <!--</div>-->
 </details>
 <details>
- <summary>Recent activity</summary>
+## 📌 Recent GitHub Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
+
 </details>
 <details>
 <summary>Top languages</summary>
